@@ -9,12 +9,13 @@
 <p2>language: English,kiswahili<br></p2>
 <h2>PERSONAL PROFILE<br></h2>
 <p2>Iam an enthusiastic, self-motivated, reliable,responsible and hardworking girl.<br></p2>
+<p2>Graphics Designer.<br></p2>
 <p2>Having knowledge in computer repair and maintenance,software development and perssion in teaching.<br></p2>
-<h3> EDUCATION<br></h3>
+<h2> EDUCATION<br></h2>
 <p2>2022-2024:Certificate in Information  communication and Technology Mabati Tecnical Training Institute<br></p2> 
-<p2>other certificates<br></p2>
-<p2>form four certificate:Ribe Girls<br></p2>
-<p2>class eight Certificate Boyani primary<br></p2>
+<h2>CERTICIFICATION<br></h2>
+<p2>Form four certificate:Ribe Girls.<br></p2>
+<p2>Class eight Certificate Boyani primary.<br></p2>
 <p2>certificate in printing: Mabati Technucal<br></p2>
 <p2>certificate in photography: Mabati Technical<br><p2>
 
