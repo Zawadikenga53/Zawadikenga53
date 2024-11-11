@@ -1,11 +1,13 @@
 <!DOCTYPE>
 <html>
 <body>
-<h1>my unique portfolio<br></h1>
-<p1>Name:Zawadii<br></p1>
-<p2>Department:ICT<br></p2>
-<p3>Gender:Female<br></p3>
-<p4>School:MTTI<br></p4>
+<h1>UNIQUE PORTFOLIO, PERSONAL DETAILS<br></h1>
+<p2>Name:Zawadii<br></p2>
+<p2>Gender:Female<br></p2>
+<p2>contact:0757479897<br></p2>
+<p2>Email: zawadikenga54@gmail.com<br></p2>
+ <h2>PERSONAL PROFILE<br></h2>
+ 
 </body>
 </html>
 
