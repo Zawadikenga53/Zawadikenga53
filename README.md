@@ -18,8 +18,15 @@
 <p2>Class eight Certificate Boyani primary.<br></p2>
 <p2>certificate in printing: Mabati Technucal<br></p2>
 <p2>certificate in photography: Mabati Technical<br><p2>
-
- 
+<h>REFERENCE </h>
+<p>Denis Nyagilo <br></p> 
+<p>principal Mabati Technical Training Institute<br>
+<p> contacts:0756986472</p>
+<p> Email:denisnyagilo@56gmail.com</p>
+<p>Judith Ochoki<br>
+<p>lecture mabati Technical Training Institute<br></p>
+<p>contact:0716849982<br></p>
+<p>Email:judithochokinyasiaboki@gmail.com<br></p>
 </body>
 </html>
 
